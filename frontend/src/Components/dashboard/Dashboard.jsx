@@ -86,7 +86,7 @@ export default function Dashboard(){
 	return(
 			<>
 				<Helmet>
-                <title>Zeeshan Raza Portfolio Admin Dashboard Page</title>
+                <title>Sawira Portfolio Admin Dashboard Page</title>
         </Helmet>
 				<section className='section_main_dashboard'>
 					<Sidebar/>
