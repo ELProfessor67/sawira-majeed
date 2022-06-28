@@ -207,7 +207,7 @@ export default function(){
 	return(
 			<>
 				<Helmet>
-                <title>Zeeshan Raza Portfolio Admin Project Page</title>
+                <title>Sawira Portfolio Admin Project Page</title>
         </Helmet>
 				<Sidebar/>
 				<section className="section_dashboard section_skiils section_project">
