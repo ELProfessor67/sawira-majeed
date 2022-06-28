@@ -15,7 +15,7 @@ export default function Service(){
 	return(
 			<>
 				<Helmet>
-                	<title>Zeeshan Raza Portfolio Service Page</title>
+                	<title>Sawira Portfolio Service Page</title>
             	</Helmet>
 				<Navbar/>
 				<Services/>
