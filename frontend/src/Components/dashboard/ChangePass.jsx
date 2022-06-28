@@ -71,7 +71,7 @@ export default function(){
 	return(
 		<>
 			<Helmet>
-                <title>Zeeshan Raza Portfolio Admin Change Password Page</title>
+                <title>Sawira Portfolio Admin Change Password Page</title>
             </Helmet>
 			<Sidebar/>
 			<section className="section_dashboard section_setting section_chnagePass">
