@@ -14,7 +14,7 @@ export default function About(){
 	return(
 			<>
 				<Helmet>
-                	<title>Zeeshan Raza Portfolio About Page</title>
+                	<title>sawira Portfolio About Page</title>
             	</Helmet>
 				<Navbar/>
 				<BioData/>
