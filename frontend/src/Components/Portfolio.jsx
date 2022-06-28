@@ -13,7 +13,7 @@ export default function Portfo(){
 	return(
 			<>
 				<Helmet>
-                	<title>Zeeshan Raza Portfolio Portfolio Page</title>
+                	<title>Sawira Portfolio Portfolio Page</title>
             	</Helmet>
 				<Navbar/>
 				<Portfolio showAllBtn={true}/>
