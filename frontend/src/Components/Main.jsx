@@ -16,7 +16,7 @@ const Main = () => {
 	return(
 		<>
 			<Helmet>
-                <title>Zeeshan Raza Portfolio Home Page</title>
+                <title>Sawira Portfolio Home Page</title>
             </Helmet>
 			<Nav main={true}/>
 			<HeroSection/>
