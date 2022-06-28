@@ -182,7 +182,7 @@ export default function(){
 	return(
 			<>
 				<Helmet>
-                <title>Zeeshan Raza Portfolio Admin Count Page</title>
+                <title>Sawira Portfolio Admin Count Page</title>
         </Helmet>
 				<Sidebar/>
 				<Sidebar/>
