@@ -9,7 +9,7 @@ export default function (){
 	return(
 			<>
 				<Helmet>
-                	<title>Zeeshan Raza Portfolio Erorr Page</title>
+                	<title>Sawira Portfolio Erorr Page</title>
             	</Helmet>
 				<section className="section section_error">
 					<div className="error_container">
