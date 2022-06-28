@@ -62,7 +62,7 @@ export default function Login(){
 	return(
 			<>
 				<Helmet>
-                	<title>Zeeshan Raza Portfolio Admin Login Page</title>
+                	<title>Sawira Portfolio Admin Login Page</title>
         		</Helmet>
 				<section className='section_login section'>
 					<div className="login_container">
