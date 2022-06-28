@@ -81,7 +81,7 @@ export default function(){
 	return(
 		<>
 			<Helmet>
-                <title>Zeeshan Raza Portfolio Admin Settings Page</title>
+                <title>Sawira Portfolio Admin Settings Page</title>
         	</Helmet>
 			<Sidebar/>
 			<section className="section_dashboard section_setting">
