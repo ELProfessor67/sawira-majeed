@@ -131,7 +131,7 @@ export default function(){
 	return(
 			<>
 				<Helmet>
-                <title>Zeeshan Raza Portfolio Admin Client Message Page</title>
+                <title>Sawira Portfolio Admin Client Message Page</title>
         </Helmet>
 				<Sidebar/>
 				<section className="section_dashboard section_skiils section_client_message">
