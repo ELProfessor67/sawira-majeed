@@ -14,7 +14,7 @@ export default function Service(){
 	return(
 			<>
 				<Helmet>
-                	<title>Zeeshan Raza Portfolio Contact Page</title>
+                	<title>Sawira Portfolio Contact Page</title>
             	</Helmet>
 				<Navbar/>
 				<Contacts showMap={true}/>
