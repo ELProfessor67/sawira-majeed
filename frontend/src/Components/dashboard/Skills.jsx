@@ -180,7 +180,7 @@ export default function(){
 	return(
 			<>
 				<Helmet>
-                <title>Zeeshan Raza Portfolio Admin skills Page</title>
+                <title>Sawira Portfolio Admin skills Page</title>
         </Helmet>
 				<Sidebar/>
 				<section className="section_dashboard section_skiils">
