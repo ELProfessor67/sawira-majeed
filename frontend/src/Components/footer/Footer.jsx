@@ -99,13 +99,13 @@ export default function Footer(){
 				</div>
 				<div className="container">
 					<div className="f_social_icons">
-						<a href="https://www.instagram.com/el___professor____/?hl=en" target="_zeeshan">
+						<a href="https://www.instagram.com/jiya59219/?hl=en" target="_zeeshan">
 							<InstagramIcon/>
 						</a>
 						<a href="#">
 							<FacebookIcon/>
 						</a>
-						<a href="https://github.com/ELProfessor67" target='_zeeshan'>
+						<a href="https://github.com/jiya745" target='_zeeshan'>
 							<GitHubIcon/>
 						</a>
 					</div>
