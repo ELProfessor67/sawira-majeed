@@ -78,19 +78,19 @@ export default function Footer(){
 							<div>
 								<p>
 									<span><LocationOnIcon/></span>
-								 	 <a href="https://goo.gl/maps/FiLxdbYmKt72HVZz7" target="_zeeshan">Uttar Pradesh, Bareilly</a>
+								 	 <a href="https://goo.gl/maps/FiLxdbYmKt72HVZz7" target="_zeeshan">Pakistan, Lahore</a>
 								</p>
 							</div>
 							<div>
 								<p>
 									<span><PhoneInTalkIcon/></span>
-								 	 <a href="tel:+917302332142">+91 7302332142</a>
+								 	 <a href="tel:+923305270503">+92 3305270503</a>
 								</p>
 							</div>
 							<div>
 								<p>
 									<span><EmailIcon/></span>
-								 	 <a href="mailto:jeeshanr599@gmail.com">jeeshanr599@gmail.com</a>
+								 	 <a href="mailto:jiya5921@gmail.com">jiya5921@gmail.com</a>
 								</p>
 							</div>
 							
