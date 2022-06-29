@@ -110,7 +110,7 @@ export default function Footer(){
 						</a>
 					</div>
 					<div className="f_credits">
-						<p>Copyright © 2022 All rights reserved | This template is made with <span style={{color:"red"}}>❤</span> by Zeeshan Raza</p>
+						<p>Copyright © 2022 All rights reserved | This template is made with <span style={{color:"red"}}>❤</span> by Sawira Majeed</p>
 					</div>
 				</div>
 			</footer>
