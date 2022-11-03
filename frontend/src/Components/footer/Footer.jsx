@@ -16,7 +16,7 @@ export default function Footer(){
 					<div className="f_about">
 						<h3>About</h3>
 						<p>
-							Hello I am Zeeshan Raza. I am from Uttar Pradesh, Bareilly. I did my gradution in B.tech from Invertis University, Bareilly.
+							Hello I am Sawira Majeed. I am from Pakistan, Lohore. I did my gradution in BSC from Pubjab univerty of Pakistan.
 						</p>
 					</div>
 					{/*end*/}
